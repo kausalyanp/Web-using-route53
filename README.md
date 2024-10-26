@@ -19,7 +19,7 @@ systemctl status apache2
 ```
 8. Purchase a domain on Godaddy or any other provider
 9. Create hosted-zone with the domain name in Route53 - enter your domain name
-10. Coppy the Name-Server records into the domain provider (there are 4 records, copy them all, do not add . at the end)
+10. Copy the Name-Server records into the domain provider (there are 4 records, copy them all, do not add . at the end)
 ![image](https://github.com/user-attachments/assets/b52e0086-6520-42f7-bebe-16c315c5ff1f)
 11. Create a record in your route53 hostedzone - Record type is A, enter the public ip address in value box.
 12. Browse application with the your domain name.
