@@ -8,8 +8,8 @@ Steps to follow:
 2. Create public subnet
 3. Create route-tables, internet-gateway
 4. Configure Route table, Internet Gateway and Subnets
-5. Created an public Ec2 instance in public subnet
-6. install apapche2 webserver
+5. Create an public Ec2 instance in public subnet in ubuntu OS
+6. Install apapche2 webserver
 ```
 sudo su -
 apt update
